@@ -10,3 +10,5 @@ This is a simple from the dataset
 
 
 ![Alt Text](https://github.com/AhmedMahmoudMostafa/Interior-Scene/raw/main/taxonomy3.png)
+this is the Dataset Taxonomy the data contine more than 30 class in each class there is a subclass with are Living room, Bedroom, Bathroom, Dining room ,kitchen
+in each class contine the imgae and text discoation of each image and audio for this text we have upto 6 different voice
