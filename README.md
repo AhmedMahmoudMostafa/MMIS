@@ -6,3 +6,7 @@ We introduce MMIS, a novel dataset designed to advance the generation and recogn
 
 https://github.com/AhmedMahmoudMostafa/Interior-Scene.git
 ![Alt Text](https://github.com/AhmedMahmoudMostafa/Interior-Scene/raw/main/Blank%20diagram%20(6).png)
+This is a simple from the dataset 
+
+
+![Alt Text](https://github.com/AhmedMahmoudMostafa/Interior-Scene/raw/main/taxonomy3.png)
