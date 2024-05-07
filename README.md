@@ -10,5 +10,13 @@ This is a simple from the dataset
 
 
 ![Alt Text](https://github.com/AhmedMahmoudMostafa/Interior-Scene/raw/main/taxonomy3.png)
-this is the Dataset Taxonomy the data contine more than 30 class in each class there is a subclass with are Living room, Bedroom, Bathroom, Dining room ,kitchen
-in each class contine the imgae and text discoation of each image and audio for this text we have upto 6 different voice
+Dataset Taxonomy
+
+The dataset encompasses an extensive taxonomy featuring more than 30 classes, each further divided into specific subclasses such as Living Room, Bedroom, Bathroom, Dining Room, and Kitchen.
+
+Within each class, you'll find:
+
+Image: A visual representation capturing the essence of the scene.
+Text Description: A comprehensive textual narrative providing insights and details about the depicted environment.
+Audio Narration: An audio recording accompanying the text description, offering multiple interpretations with up to six distinct voices.
+This comprehensive structure allows for a rich exploration of various interior scenes, facilitating research and applications across diverse domains such as scene generation, recognition, and multimodal representation learning.
